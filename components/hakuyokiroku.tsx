@@ -14,7 +14,7 @@ type Props = {
 
 const HakuyoKiroku: any = ({ record, record2 }: Props) => {
   return (
-    <div className="shadow-lg bg-white p-5">
+    <div className="shadow-lg bg-white sm:p-5">
       <p className="text-3xl pt-3 font-bold text-green-700">
         柏陽高校歴代記録
       </p>

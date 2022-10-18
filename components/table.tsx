@@ -8,7 +8,7 @@ const Table: NextPage = () => {
   return (
     <div className="pb-10 md:pr-36 p-5 ">
       <p className="text-2xl pb-5">部員数</p>
-      <table className="w-96 table md:p-4 bg-white shadow rounded-lg">
+      <table className="table md:p-4 bg-white shadow rounded-lg">
         <thead>
           <tr>
             <th className="border-b-2 md:p-4 dark:border-dark-5 whitespace-nowrap font-normal text-gray-900"></th>

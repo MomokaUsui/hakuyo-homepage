@@ -18,7 +18,7 @@ const Home: NextPage = ({ record, record2 }: any) => {
     <div className="">
       <Header />
 
-      <div className="sm:px-20 px-10 py-10">
+      <div className="sm:px-20 px-1 py-10">
         <Body />
         <HakuyoKiroku record={record} record2={record2} />
       </div>

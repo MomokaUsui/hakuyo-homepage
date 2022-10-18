@@ -11,9 +11,9 @@ import { client } from "../libs/client";
 
 const Activity: NextPage = () => {
   return (
-    <div className="">
+    <div>
       <Header />
-      <div className="px-20 py-10 bg-slate-50">
+      <div className="sm:px-20 px-5 py-10 bg-slate-50">
         <h2 className="text-center font-extrabold text-4xl  ">TEAM</h2>
         <hr className="my-5 border-gray-200 dark:border-gray-300" />
         <div className="hidden lg:flex lg:items-center lg:w-1/2 lg:justify-center"></div>
