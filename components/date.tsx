@@ -16,7 +16,7 @@ const Date: NextPage = () => {
         <br />
         冬季練習中は火・木に朝練あり
       </p>
-      <p className="text-2xl pb-3">活動時間</p>
+      {/* <p className="text-2xl pb-3">活動時間</p> */}
     </div>
   );
 };
