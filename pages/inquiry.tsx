@@ -10,7 +10,7 @@ function Inquiry() {
   return (
     <div className="">
       <Header />
-      <div className="px-20">
+      <div className="sm:px-20 px-3">
         <h2 className="py-5 text-2xl">このサイトについて</h2>
         <p className="pb-10">
           柏陽高校陸上競技部ホームページは、柏陽高校の陸上部について１人でも多くの方に知ってもらうために作成しています。
