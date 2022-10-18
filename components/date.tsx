@@ -10,7 +10,7 @@ const Date: NextPage = () => {
   return (
     <div className="p-5">
       <p className="text-2xl pb-3 ">活動日</p>
-      <div className="flex pb-3">月　火　水　金　日</div>
+      <div className="flex pb-3">月　火　水　金　土</div>
       <p className="pb-5">
         日曜日に大会のあった次の月曜日は休み
         <br />

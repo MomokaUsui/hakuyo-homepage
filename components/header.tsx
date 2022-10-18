@@ -11,7 +11,7 @@ const Header: NextPage = () => {
         <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
           <Link href={"/"}>
             <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-              <Image src="/public/kosho.png" alt="img" width={20} height={20} />
+              {/* <Image src="/public/kosho.png" alt="img" width={20} height={20} /> */}
               <span className="ml-3 text-2xl font-semibold hover:text-gray-500 text-green-900 cursor-pointer">
                 柏陽高校陸上競技部
               </span>
